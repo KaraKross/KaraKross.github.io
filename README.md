@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', function () {
         { src: 'img/glow.gif', text: 'люблю коли ти посміхаєшся та світишся від щастя' },
         
         
-        { src: 'img/workoff.gif', text: 'а це я коли ти сказав що йдеш додому ти допрацював' },
+        { src: '[img/workoff.gif](https://github.com/user-attachments/assets/6d020dfe-7c6a-4cda-8722-e25c30eb16d1)', text: 'а це я коли ти сказав що йдеш додому ти допрацював' },
         { src: 'img/rejoice.gif', text: 'ти радієш коли я тебе похвалила' },
         
         { src: 'img/bigbelly.gif', text: 'а це я гладжу твоє пузіко' },
